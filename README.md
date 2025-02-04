@@ -33,15 +33,6 @@ This is a simple banking application built with HTML, CSS, and JavaScript.  It a
 | stw | 3333 |
 | ss | 4444 |
 
-## 💻 Project Structure
-
-bankist-app/
-├── index.html       
-├── style.css        
-└── script.js      
-└── icon.png        
-└── logo.png        
-
 ## 🤝 Contributing
 
 1. Fork the repository
