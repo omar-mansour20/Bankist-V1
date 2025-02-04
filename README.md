@@ -36,11 +36,11 @@ This is a simple banking application built with HTML, CSS, and JavaScript.  It a
 ## 💻 Project Structure
 
 bankist-app/
-├── index.html       // Main HTML file
-├── style.css        // CSS stylesheet
-└── script.js       // JavaScript logic
-└── icon.png        // App icon (if included)
-└── logo.png        // App logo (if included)
+├── index.html       
+├── style.css        
+└── script.js      
+└── icon.png        
+└── logo.png        
 
 ## 🤝 Contributing
 
